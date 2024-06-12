@@ -3,4 +3,4 @@ Python script that performs real-time speech recognition using CUDA enabled Deep
 
 
 
-                                                                                ![th](https://github.com/malbu/mirror-gem/assets/6825150/2240b314-c817-452d-8f8f-a6ad53575412)
+![th](https://github.com/malbu/mirror-gem/assets/6825150/2240b314-c817-452d-8f8f-a6ad53575412)
