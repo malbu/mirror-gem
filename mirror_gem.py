@@ -27,7 +27,7 @@ import struct
 CHUNK = 480  # 30ms at 16kHz
 CHANNELS = 1  # Record from a single channel
 RATE = 16000
-RESPEAKER_INDEX = 11  
+RESPEAKER_INDEX = 12  
 WAVE_OUTPUT_FOLDER = "audio_clips"
 WORD_AUDIO_FOLDER = os.path.join(WAVE_OUTPUT_FOLDER, "word_audio")
 
@@ -159,9 +159,6 @@ target_sentences = [
     "charming little one",
     "cheerful chum",
     "precious pal"
-
-
-These phrases are common in everyday speech and could potentially be used by the alien to communicate or draw attention to itself in various situations.
 ]
 all_target_words = set()
 found_words = {}
