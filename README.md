@@ -25,7 +25,7 @@ Mirror Gem is an interactive art installation created for 2024 Firefly Arts Fest
 - NVIDIA Jetson Nano 
 - ReSpeaker Microphone Array V2
 - Adafruit PCA9685 16-Channel Servo Driver
-- 
+  
 
 ## Software Dependencies
 - Jetpack 4.6
