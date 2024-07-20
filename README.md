@@ -32,7 +32,7 @@ Mirror Gem is an interactive art installation created for 2024 Firefly Arts Fest
 - Python 3.7+
 - PyAudio
 - NumPy
-- DeepSpeech 0.9.3 for Jetson Nano
+- DeepSpeech 0.9.3 (compiled with CUDA and TensorRT support)
 - pydub
 - webrtcvad
 - Adafruit ServoKit
